@@ -1,0 +1,13 @@
+.main-container {
+    display: flex;
+  }
+  
+  .post-section {
+    width: 70%;
+    float: left;
+  }
+  
+  .category-section {
+    width: 30%;
+    float: right;
+  }
